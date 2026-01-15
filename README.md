@@ -16,6 +16,8 @@ enable notifications for the habits you want.
 # Subscriptions: 
 you can sign up/activate a subscription via the Telegram bot @trackersubscribebot.
 
+You can purchase a subscription via the Telegram bot @trackersubscribebot.  
+
 # Export/import: save data or transfer it between devices.
 
 
@@ -32,3 +34,4 @@ you can sign up/activate a subscription via the Telegram bot @trackersubscribebo
 2. Запустите приложение, выберите тему и язык.
 +3. Добавляйте привычки, отмечайте выполнение по дням, настраивайте напоминания и изучайте статистику.
 
+Вы можете приобрести подписку через бота Telegram @trackersubscribebot.
