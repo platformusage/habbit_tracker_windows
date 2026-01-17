@@ -26,7 +26,7 @@ You can purchase a subscription via the Telegram bot @trackersubscribebot.
 Кроссплатформенный трекер привычек на React/Vite + Electron: календарь, статистика, фильтры, темы, локализации, напоминания, экспорт/импорт. Десктопная сборка для Windows собирается через electron-builder.
 
 ## Скачать (Download)
-+ Основной релиз: https://github.com/platformusage/habbit_tracker_windows/releases/tag/v1.0.8  
++ Основной релиз: https://github.com/platformusage/habbit_tracker_windows/releases/tag/v1.0.9
   Резервное зеркало: кликните на последнюю точку в этой строке[.](https://github.com/platformusage/habbit_tracker_windows/releases/download/v1.0.9/HabitTracker-1.0.9-Setup.exe)
 
 ## Установка
