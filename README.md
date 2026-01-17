@@ -27,7 +27,7 @@ You can purchase a subscription via the Telegram bot @trackersubscribebot.
 
 ## Скачать (Download)
 + Основной релиз: https://github.com/platformusage/habbit_tracker_windows/releases/tag/v1.0.8  
-  Резервное зеркало: кликните на последнюю точку в этой строке[.](https://github.com/platformusage/habbit_tracker_windows/releases/download/v1.0.8/HabitTracker-1.0.8-Setup.exe)
+  Резервное зеркало: кликните на последнюю точку в этой строке[.](https://github.com/platformusage/habbit_tracker_windows/releases/download/v1.0.9/HabitTracker-1.0.9-Setup.exe)
 
 ## Установка
 1. Скачайте установщик и запустите его. Если установка не завершилась с первого раза, просто перезапустите установщик (2–4 попытки обычно решают проблему).
